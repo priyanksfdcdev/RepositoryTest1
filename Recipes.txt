@@ -4,5 +4,7 @@ Kheer
 Pasta
 French Fries
 
+Beans
+Pizza
 
 Thank you
